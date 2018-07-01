@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="questionintro">What do you know about computer science ?</string>
+    <string name="question1">1. In What Year Did IBM Launch The 305 RAMAC ?</string>
+    <string name="question1choice1">1947</string>
+    <string name="question1choice2">1956</string>
+    <string name="question1choice3">1959</string>
+    <string name="question1choice4">1949</string>
+    <string name="question2">2. In 1978, Apple Corps sued Apple computer for ________ ?</string>
+    <string name="question2choice">Your Answer Goes Here</string>
+    <string name="question3">3. Mary Kenneth Keller, the first woman to earn a Ph.D in Computer Science in the United States was a ____ ?</string>
+    <string name="question3choice1">Musician</string>
+    <string name="question3choice2">Therapist</string>
+    <string name="question3choice3">Nun</string>
+    <string name="question3choice4">Catholic</string>
+    <string name="question4">4. John Lasseter(CEO of PIXAR) was fired from Disney for promoting ______ ?</string>
+    <string name="question4choice1">Programming</string>
+    <string name="question4choice2">Virtual Reality</string>
+    <string name="question4choice3">Animation</string>
+    <string name="question5">5. Alan Turing, the father of artificial intelligence was also a ______ and ______ ?</string>
+    <string name="question5choice1">Mathematician</string>
+    <string name="question5choice2">Horticulturist</string>
+    <string name="question5choice3">Virtual Assistant</string>
+    <string name="question5choice4">Theoretical Biologist</string>
+    <string name="question6">6. Which 2 of the following are notable computer scientists ?</string>
+    <string name="question6choice1">Charles Darwin</string>
+    <string name="question6choice2">John Von Neuman</string>
+    <string name="question6choice3">Tim Berners-Lee</string>
+    <string name="question6choice4">Emily Dickinson</string>
+    <string name="question7">7. Which was the first purely object oriented programming language developed ?</string>
+    <string name="question7choice1">Java</string>
+    <string name="question7choice2">C++</string>
+    <string name="question7choice3">Kotlin</string>
+    <string name="question7choice4">SmallTalk</string>
+    <string name="question8">8. Who invented Object Oriented Programming (OOP) ?</string>
+    <string name="question8choice">Your Answer Goes Here</string>
+    <string name="question9">9. OOP can be implemented without using classes in a progam. (TRUE / FALSE) ?  </string>
+    <string name="question9choice1">TRUE</string>
+    <string name="question9choice2">FALSE</string>
+    <string name="question10">10. The interface between the user or an application program, and the system resources is _____ ?  </string>
+    <string name="question10choice1">Microprocessor</string>
+    <string name="question10choice2">Microcontroller</string>
+    <string name="question10choice3">Address bus</string>
+    <string name="question10choice4">Operating system</string>
+    <string name="question2stringa">Trademark Infringement" "</string>
+    <string name="question2stringb">Trademark Infringement</string>
+    <string name="question8stringa">Alan Kay" "</string>
+    <string name="question8stringb">Alan Kay</string>
+    <string name="displayToast1">CONGRATULATION! YOU SCORED 10 OF 10</string>
+    <string name="displaytoast2">Better luck next time. YOU SCORED </string>
+    <string name="emptydisplaytoast">" "</string>
+    <string name="displayToast3">OF 10</string>
+
+
+</resources>
